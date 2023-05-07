@@ -1,0 +1,9 @@
+.cabeçalho {
+    align-self: start;
+}
+
+.Links {
+    align-items: center;
+    background-color : #ca2d2d;
+    width: 20 px;
+}
